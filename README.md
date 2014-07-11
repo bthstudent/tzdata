@@ -1,5 +1,4 @@
-Time Zone Database
-==================
+# Time Zone Database
 
 For more information on the time zone data, please visit http://www.iana.org/time-zones/
 
